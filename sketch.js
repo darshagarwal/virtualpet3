@@ -41,7 +41,7 @@ function setup() {
 
 
 function draw() {  
-  background("yellow")
+  background("green")
 
   foodObj.display();
   writeStock(foodS);
